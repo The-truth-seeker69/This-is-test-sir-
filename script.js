@@ -3,4 +3,8 @@ function urmom(mom) {
 }
 
 
+<<<<<<< HEAD
 urmom('Violet evergarden')
+=======
+urmom('lmmmmmao')
+>>>>>>> idea-3
